@@ -10,8 +10,8 @@
 
 ### Programming
 
-    * Completion
-    * Error Checking
-    * Useful VIM scripts
+* Completion
+* Error Checking
+* Useful VIM scripts
 
 ### Markdown

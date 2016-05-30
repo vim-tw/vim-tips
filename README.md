@@ -1,5 +1,7 @@
 ## VIM-tips
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ### Version Control
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.

@@ -15,6 +15,7 @@
 
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
+* [ack.vim](https://github.com/mileszs/ack.vim) - keywords search tool from Vim, with an enhanced results list
 
 ### Navigation
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
@@ -23,8 +24,10 @@
 * Tag display
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Comment out lines
+    * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - powerful and easy to use comment tools
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.
 * Code Snipes
+    * [delimitMate](https://github.com/Raimondi/delimitMate) - provides insert mode auto-completion for quotes, parens, brackets, etc.
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
@@ -50,3 +53,14 @@
     # Remove tailing spaces upon saving the file
     autocmd BufWritePre * :%s/\s\+$//e
     ```
+    
+##### Go
+* Completion/Autoformat/Error Checking:
+    * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more. 
+    
+##### javascript
+* Syntax Checking:
+    * [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
+    * [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX
+* Completion
+    * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim

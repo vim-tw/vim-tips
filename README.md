@@ -2,6 +2,11 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+### Plugin Manager
+* [pathogen](https://github.com/tpope/vim-pathogen) - Manage your `runtimepath` with ease.
+* [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager
+* [Vundle](https://github.com/VundleVim/Vundle.vim) - Plug-in manager for Vim
+
 ### Version Control
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
@@ -15,19 +20,24 @@
 
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
-* [ack.vim](https://github.com/mileszs/ack.vim) - keywords search tool from Vim, with an enhanced results list
+* [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
 
 ### Navigation
+* [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections for Vim
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
+* [taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
+* [incsearch.vim](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching for Vim
 
 ### Programming
+* Autoformat
+    * [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
 * Tag display
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Comment out lines
-    * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - powerful and easy to use comment tools
+    * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - Powerful and easy to use comment tools
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.
 * Code Snipes
-    * [delimitMate](https://github.com/Raimondi/delimitMate) - provides insert mode auto-completion for quotes, parens, brackets, etc.
+    * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
@@ -35,6 +45,7 @@
     * [togglenumber](https://github.com/vim-scripts/togglenumber) - Easy toggle between different numbering modes
 * Error Checking
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
+
 
 ##### Python
 * Completion
@@ -58,9 +69,10 @@
 * Completion/Autoformat/Error Checking:
     * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more. 
     
-##### javascript
+##### Javascript
 * Syntax Checking:
+    * [yajs.vim](https://github.com/othree/yajs.vim) - Another JavaScript Syntax file for Vim
     * [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
     * [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX
 * Completion
-    * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim
+    * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim.

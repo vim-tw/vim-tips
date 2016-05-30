@@ -35,9 +35,9 @@
 
 ##### Python
 * Completion
-    * jedi-vim
+    * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
 * Autoformat
-    * flake8-vim
+    * [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim
 * Useful VIM scripts
 
     ```

@@ -58,7 +58,7 @@
 * Completion/Autoformat/Error Checking:
     * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more. 
     
-#### javascript
+##### javascript
 * Syntax Checking:
     * [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
     * [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX

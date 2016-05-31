@@ -13,6 +13,7 @@
 
 ### Stauts/tabline
 * [vim-airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline for vim that's light as air
+* [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome, i3 and Qtile.
 
 ### File Manager
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.
@@ -27,6 +28,7 @@
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
 * [taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
 * [incsearch.vim](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching for Vim
+* [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
 
 ### Programming
 * Autoformat
@@ -50,6 +52,8 @@
 * Undo
     * [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
 
+
+### Language Specify
 ##### Python
 * Completion
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
@@ -69,13 +73,27 @@
     ```
 
 ##### Go
-* Completion/Autoformat/Error Checking:
+* Completion/Autoformat/Syntax
     * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.
 
 ##### Javascript
-* Syntax Checking:
+* Syntax
     * [yajs.vim](https://github.com/othree/yajs.vim) - Another JavaScript Syntax file for Vim
     * [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
     * [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX
 * Completion
     * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim.
+
+
+#####  C-family languages
+* Completion
+    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Fast, as-you-type, fuzzy-search code completion engine for Vim.
+* Syntax
+    * [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14)
+* Navigation
+    * [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
+
+
+
+
+

@@ -45,7 +45,8 @@
     * [togglenumber](https://github.com/vim-scripts/togglenumber) - Easy toggle between different numbering modes
 * Error Checking
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
-
+* Refactoring
+    * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - It's great for quick refactoring.
 
 ##### Python
 * Completion
@@ -64,11 +65,11 @@
     # Remove tailing spaces upon saving the file
     autocmd BufWritePre * :%s/\s\+$//e
     ```
-    
+
 ##### Go
 * Completion/Autoformat/Error Checking:
-    * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more. 
-    
+    * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.
+
 ##### Javascript
 * Syntax Checking:
     * [yajs.vim](https://github.com/othree/yajs.vim) - Another JavaScript Syntax file for Vim

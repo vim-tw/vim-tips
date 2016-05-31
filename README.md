@@ -29,26 +29,31 @@
 * [taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
 * [incsearch.vim](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching for Vim
 * [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
+* [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
 
 ### Programming
 * Autoformat
     * [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
-* Tag display
-    * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
+* Autocomplete
+    * [neocomplete](https://github.com/Shougo/neocomplete.vim) - Provides keyword completion system by cache in the current buffer.
+    * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
+    * [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 * Comment out lines
     * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - Powerful and easy to use comment tools
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.
 * Code Snipes
-    * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
+    * [ultisnips](https://github.com/SirVer/ultisnips) - Snippet solution for Vim.
+* Error Checking
+    * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 * Line Number Toggling
     * [togglenumber](https://github.com/vim-scripts/togglenumber) - Easy toggle between different numbering modes
-* Error Checking
-    * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 * Refactoring
     * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - It's great for quick refactoring.
+* Tag display
+    * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Undo
     * [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
 

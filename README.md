@@ -47,6 +47,8 @@
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 * Refactoring
     * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - It's great for quick refactoring.
+* Undo
+    * [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
 
 ##### Python
 * Completion

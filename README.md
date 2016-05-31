@@ -55,13 +55,11 @@
 
 ### Language Specify
 ##### Python
-* Completion
-    * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
-* Autoformat
-    * [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim
+* [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
+* [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim
 * Useful VIM scripts
-
-    ```
+   
+   ```
     # Number of spaces that a <Tab> in the file counts for.
     set tabstop=4
     # Number of spaces to use for each step of (auto)indent.  Used for |'cindent'|, |>>|, |<<|, etc.
@@ -70,28 +68,21 @@
     set expandtab
     # Remove tailing spaces upon saving the file
     autocmd BufWritePre * :%s/\s\+$//e
-    ```
+   ```
 
 ##### Go
-* Completion/Autoformat/Syntax
-    * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.
+* [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.
 
 ##### Javascript
-* Syntax
-    * [yajs.vim](https://github.com/othree/yajs.vim) - Another JavaScript Syntax file for Vim
-    * [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
-    * [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX
-* Completion
-    * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim.
-
+* [yajs.vim](https://github.com/othree/yajs.vim) - Another JavaScript Syntax file for Vim
+* [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
+* [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX
+* [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim.
 
 #####  C-family languages
-* Completion
-    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Fast, as-you-type, fuzzy-search code completion engine for Vim.
-* Syntax
-    * [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14)
-* Navigation
-    * [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
+* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Fast, as-you-type, fuzzy-search code completion engine for Vim.
+* [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14)
+* [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 
 
 

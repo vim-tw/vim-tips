@@ -24,6 +24,9 @@
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
 
+### Malware Analysis
+* [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins) - Tiny plugins for McAfee FileInsight hex editor useful for various kind of decoding tasks in malware analysis
+
 ### Navigation
 * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections for Vim
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.

@@ -54,11 +54,15 @@
 * Refactoring
     * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - It's great for quick refactoring.
 * Surroundings
-    * [tpope/vim-surround](https://github.com/tpope/vim-surround) - The plugin provides mappings to easily delete, change and add such surroundings in pairs.
+    * [vim-surround](https://github.com/tpope/vim-surround) - The plugin provides mappings to easily delete, change and add such surroundings in pairs.
 * Tag display
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Undo
-    * [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
+    * [gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
+
+### ToDo-List
+* [vim-simple-tod](https://github.com/vitalk/vim-simple-todo)
+
 
 ---
 

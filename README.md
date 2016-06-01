@@ -18,6 +18,7 @@
 ### File Manager
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
+* [v](https://github.com/rupa/v) - Open recently edited files, no matter where you are in the filesystem.
 
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.

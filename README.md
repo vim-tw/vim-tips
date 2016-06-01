@@ -57,6 +57,8 @@
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Undo
     * [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
+* Surroundings
+    * [tpope/vim-surround](https://github.com/tpope/vim-surround) - The plugin provides mappings to easily delete, change and add such surroundings in pairs.
 
 ---
 
@@ -65,7 +67,7 @@
 * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
 * [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim
 * Useful VIM scripts
-   
+
    ```
     # Number of spaces that a <Tab> in the file counts for.
     set tabstop=4

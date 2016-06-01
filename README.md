@@ -61,7 +61,7 @@
     * [gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
 
 ### ToDo-List
-* [vim-simple-tod](https://github.com/vitalk/vim-simple-todo)
+* [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
 
 
 ---

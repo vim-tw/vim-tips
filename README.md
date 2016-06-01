@@ -59,7 +59,7 @@
 
 ---
 
-### Language Specify
+### Language-Related
 #### Python
 * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
 * [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim
@@ -81,11 +81,21 @@
 * [es.next.syntax.vim](https://github.com/othree/es.next.syntax.vim) - This syntax file is for ES7 and future syntax
 * [vim-jsx](https://github.com/mxw/vim-jsx) - Syntax highlighting and indenting for JSX
 * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) - Node.js `omnifunc` function of vim.
+* [vim-js-pretty-template](https://github.com/Quramy/vim-js-pretty-template) - Highlight JavaScript's Template Strings contents in other FileType.
 
 ####  C-family Languages
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Fast, as-you-type, fuzzy-search code completion engine for Vim.
 * [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14)
 * [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
+* [vim-protodef](https://github.com/derekwyatt/vim-protodef) -  Pulling C++ function prototypes into implementation files
 
 #### Go
 * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.
+
+#### Typescript
+* [typescript-vim](https://github.com/leafgarland/typescript-vim) - Typescript syntax files for Vim
+* [tsuquyomi](https://github.com/Quramy/tsuquyomi) - Typescript autocomplete, syntax checking, and more.
+
+#### Markdown
+* [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.
+* [vim-markdown](https://github.com/plasticboy/vim-markdown) - Syntax highlighting, matching rules and mappings for the original Markdown and extensions.

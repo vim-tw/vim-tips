@@ -22,6 +22,7 @@
 
 ### Filetype Plugins
 * [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
+* [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim
 
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.

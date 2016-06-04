@@ -20,9 +20,16 @@
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 * [v](https://github.com/rupa/v) - Open recently edited files, no matter where you are in the filesystem.
 
+### Filetype Plugins
+* [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
+
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
+
+### Integration with Other Applications
+* [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m (a console-based web browser) plugin for vim.
+* [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration.
 
 ### Malware Analysis
 * [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins) - Tiny plugins for McAfee FileInsight hex editor useful for various kind of decoding tasks in malware analysis
@@ -48,6 +55,8 @@
 * Code Snipes
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
     * [ultisnips](https://github.com/SirVer/ultisnips) - Snippet solution for Vim.
+* Documentation
+    * [DoxygenToolkit.vim](http://www.vim.org/scripts/script.php?script_id=987) - Simplify Doxygen documentation in C, C++, Python.
 * Error Checking
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 * Indention
@@ -65,7 +74,6 @@
 
 ### ToDo-List
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
-
 
 ---
 

@@ -71,6 +71,8 @@
 ### ToDo-List
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
 
+### Web Browsers
+* [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m plugin for vim.
 
 ---
 

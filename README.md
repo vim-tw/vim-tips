@@ -20,6 +20,9 @@
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 * [v](https://github.com/rupa/v) - Open recently edited files, no matter where you are in the filesystem.
 
+### Filetype Plugins
+* [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
+
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
@@ -48,6 +51,8 @@
 * Code Snipes
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
     * [ultisnips](https://github.com/SirVer/ultisnips) - Snippet solution for Vim.
+* Documentation
+    * [DoxygenToolkit.vim](http://www.vim.org/scripts/script.php?script_id=987) - Simplify Doxygen documentation in C, C++, Python.
 * Error Checking
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 * Indention

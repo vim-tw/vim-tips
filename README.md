@@ -27,6 +27,10 @@
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
 
+### Integration with Other Applications
+* [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m (a console-based web browser) plugin for vim.
+* [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration.
+
 ### Malware Analysis
 * [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins) - Tiny plugins for McAfee FileInsight hex editor useful for various kind of decoding tasks in malware analysis
 
@@ -70,9 +74,6 @@
 
 ### ToDo-List
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
-
-### Web Browsers
-* [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m plugin for vim.
 
 ---
 

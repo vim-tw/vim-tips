@@ -82,6 +82,7 @@
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
 
 ### Buffer/Tab
+* [minibufexpl](https://github.com/fholgado/minibufexpl.vim) - Elegant buffer explorer - takes very little screen space
 
 ---
 

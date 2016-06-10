@@ -81,6 +81,8 @@
 ### ToDo-List
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
 
+### Buffer/Tab
+
 ---
 
 ### Language-Related

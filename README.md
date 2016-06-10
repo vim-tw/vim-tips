@@ -117,6 +117,7 @@
 * [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14)
 * [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 * [vim-protodef](https://github.com/derekwyatt/vim-protodef) -  Pulling C++ function prototypes into implementation files
+* [clang_complete](https://github.com/Rip-Rip/clang_complete) - Vim plugin that use clang for completing C/C++ code.
 
 #### Go
 * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.

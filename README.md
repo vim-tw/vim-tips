@@ -6,6 +6,7 @@
 * [pathogen](https://github.com/tpope/vim-pathogen) - Manage your `runtimepath` with ease.
 * [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager
 * [Vundle](https://github.com/VundleVim/Vundle.vim) - Plug-in manager for Vim
+* [neobundle](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
 
 ### Version Control
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.

@@ -56,6 +56,7 @@
 * Comment out lines
     * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - Powerful and easy to use comment tools
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.
+    * [vim-commentary](https://github.com/tpope/vim-commentary) - Comment stuff out.
 * Code Snipes
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
     * [ultisnips](https://github.com/SirVer/ultisnips) - Snippet solution for Vim.

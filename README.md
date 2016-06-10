@@ -6,14 +6,17 @@
 * [pathogen](https://github.com/tpope/vim-pathogen) - Manage your `runtimepath` with ease.
 * [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager
 * [Vundle](https://github.com/VundleVim/Vundle.vim) - Plug-in manager for Vim
+* [neobundle](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
 
 ### Version Control
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
+* [vimagit](https://github.com/jreybert/vimagit) - From a very single vim buffer, you can perform main git operations in few key press
 
 ### Stauts/tabline
 * [vim-airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline for vim that's light as air
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome, i3 and Qtile.
+* [lightline](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline for Vim
 
 ### File Manager
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.
@@ -31,6 +34,7 @@
 ### Integration with Other Applications
 * [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m (a console-based web browser) plugin for vim.
 * [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration.
+* [gist-vim](https://github.com/mattn/gist-vim) - This is a vimscript for creating gists
 
 ### Malware Analysis
 * [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins) - Tiny plugins for McAfee FileInsight hex editor useful for various kind of decoding tasks in malware analysis
@@ -50,9 +54,11 @@
     * [neocomplete](https://github.com/Shougo/neocomplete.vim) - Provides keyword completion system by cache in the current buffer.
     * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
     * [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
+    * [vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
 * Comment out lines
     * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - Powerful and easy to use comment tools
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.
+    * [vim-commentary](https://github.com/tpope/vim-commentary) - Comment stuff out.
 * Code Snipes
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
     * [ultisnips](https://github.com/SirVer/ultisnips) - Snippet solution for Vim.
@@ -60,6 +66,7 @@
     * [DoxygenToolkit.vim](http://www.vim.org/scripts/script.php?script_id=987) - Simplify Doxygen documentation in C, C++, Python.
 * Error Checking
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
+    * [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 * Line Number Toggling
@@ -75,6 +82,13 @@
 
 ### ToDo-List
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
+
+### Buffer/Tab
+* [minibufexpl](https://github.com/fholgado/minibufexpl.vim) - Elegant buffer explorer - takes very little screen space
+* [vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout.
+
+### Shell
+* [vimshell](https://github.com/Shougo/vimshell.vim) - Powerful shell implemented by vim.
 
 ---
 
@@ -107,6 +121,7 @@
 * [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14)
 * [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 * [vim-protodef](https://github.com/derekwyatt/vim-protodef) -  Pulling C++ function prototypes into implementation files
+* [clang_complete](https://github.com/Rip-Rip/clang_complete) - Vim plugin that use clang for completing C/C++ code.
 
 #### Go
 * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.

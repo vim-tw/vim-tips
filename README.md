@@ -11,6 +11,7 @@
 ### Version Control
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
+* [vimagit](https://github.com/jreybert/vimagit) - From a very single vim buffer, you can perform main git operations in few key press
 
 ### Stauts/tabline
 * [vim-airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline for vim that's light as air

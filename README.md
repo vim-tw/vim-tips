@@ -54,6 +54,7 @@
     * [neocomplete](https://github.com/Shougo/neocomplete.vim) - Provides keyword completion system by cache in the current buffer.
     * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
     * [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
+    * [vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
 * Comment out lines
     * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - Powerful and easy to use comment tools
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.

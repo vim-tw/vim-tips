@@ -88,6 +88,7 @@
 * [vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout.
 
 ### Shell
+* [vimshell](https://github.com/Shougo/vimshell.vim) - Powerful shell implemented by vim.
 
 ---
 

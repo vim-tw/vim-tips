@@ -90,6 +90,9 @@
 ### Shell
 * [vimshell](https://github.com/Shougo/vimshell.vim) - Powerful shell implemented by vim.
 
+### Offline Documentation Browser
+* [zeavim.vim](https://github.com/KabbAmine/zeavim.vim)
+
 ---
 
 ### Language-Related

@@ -15,6 +15,7 @@
 #### VCS side column indicator
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-signify](https://github.com/mhinz/vim-signify) - Similar to *vim-gitgutter*, supports more VCS tools, but missing several git-specific features.
+* [changesPlugin](https://github.com/chrisbra/changesPlugin) - Similar to *vim-gitgutter*, supports more VCS tools, but missing several git-specific features.
 
 ### Stauts/tabline
 * [vim-airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline for vim that's light as air

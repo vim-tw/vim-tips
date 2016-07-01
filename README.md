@@ -93,6 +93,8 @@
 ### Offline Documentation Browser
 * [zeavim.vim](https://github.com/KabbAmine/zeavim.vim)
 
+### Substitute Preview
+* [vim-over](https://github.com/osyo-manga/vim-over)
 ---
 
 ### Language-Related

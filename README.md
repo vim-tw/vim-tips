@@ -34,6 +34,7 @@
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
+* [fzf.vim](https://github.com/junegunn/fzf.vim) - Integrated `fzf` with Vim. (Required: [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder.)
 
 ### Integration with Other Applications
 * [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m (a console-based web browser) plugin for vim.

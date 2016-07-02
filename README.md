@@ -67,6 +67,7 @@
 * Error Checking
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
     * [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
+    * [vim-watchdogs](https://github.com/osyo-manga/vim-watchdogs) - Async syntax checking for vim, support multi-language.
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 * Line Number Toggling
@@ -135,6 +136,9 @@
 #### Typescript
 * [typescript-vim](https://github.com/leafgarland/typescript-vim) - Typescript syntax files for Vim
 * [tsuquyomi](https://github.com/Quramy/tsuquyomi) - Typescript autocomplete, syntax checking, and more.
+
+#### Ruby
+* [vim-monster](https://github.com/osyo-manga/vim-monster) - Ruby autcomplete for vim.
 
 #### Markdown
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.

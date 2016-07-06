@@ -39,6 +39,7 @@
 ### Grep/Ack/Ag pattern search tools
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
 * [ag.vim](https://github.com/rking/ag.vim) - Vim plugin for the_silver_searcher, `ag`, a replacement for the Perl module / CLI script `ack`.
+* [vim-grepper](https://github.com/mhinz/vim-grepper) - Helps you win at grep, supports many common grep tools (`ag`, `ack`, `git grep`, `sift`, `pt`, `findstr`).
 
 ### Integration with Other Applications
 * [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m (a console-based web browser) plugin for vim.

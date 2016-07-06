@@ -174,6 +174,9 @@
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Syntax highlighting, matching rules and mappings for the original Markdown and extensions.
 
+#### Asciidoc
+* [vim-asciidoc](https://github.com/dahu/vim-asciidoc) - Enhanced editing support for Asciidoc files in Vim.
+
 #### CSS
 * [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing.
 

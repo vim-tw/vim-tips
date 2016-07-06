@@ -168,3 +168,6 @@
 #### Markdown
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Syntax highlighting, matching rules and mappings for the original Markdown and extensions.
+
+#### CSS
+* [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing.

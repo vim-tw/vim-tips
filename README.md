@@ -27,6 +27,7 @@
 
 ### Session file utilities
 * [vim-obsession](https://github.com/tpope/vim-obsession) - continuously updated session files.
+* [vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro.
 
 ### File Manager
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.

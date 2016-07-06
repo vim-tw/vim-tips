@@ -55,6 +55,7 @@
 * [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
 * Motion
     * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
+    * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim
 
 ### Man page viewers
 * [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.

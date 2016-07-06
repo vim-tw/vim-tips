@@ -76,6 +76,7 @@
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 * Line Number Toggling
     * [togglenumber](https://github.com/vim-scripts/togglenumber) - Easy toggle between different numbering modes
+    * [vim-togglenumber](https://github.com/tkhoa2711/vim-togglenumber) - easy toggle between different number modes in vim
 * Refactoring
     * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - It's great for quick refactoring.
 * Surroundings

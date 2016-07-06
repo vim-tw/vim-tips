@@ -41,6 +41,7 @@
 * [gist-vim](https://github.com/mattn/gist-vim) - This is a vimscript for creating gists
 * Tmux relatives
     * [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration.
+    * [vim-tbone](https://github.com/tpope/vim-tbone) - Tmux basics.
 
 ### Malware Analysis
 * [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins) - Tiny plugins for McAfee FileInsight hex editor useful for various kind of decoding tasks in malware analysis

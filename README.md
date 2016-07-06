@@ -53,6 +53,7 @@
 
 ### Man page viewers
 * [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.
+* [neoman.vim](https://github.com/nhooyr/neoman.vim) - A modern man page plugin for vim.
 
 ### Programming
 * Autoformat

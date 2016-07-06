@@ -183,3 +183,6 @@
 
 #### Systemd units
 * [vim-systemd-syntax](https://github.com/Matt-Deacalion/vim-systemd-syntax) - Syntax highlighting for systemd service files in Vim.
+
+#### Vimperator
+* [vimperator.vim](https://github.com/vimperator/vimperator.vim) - Syntax highlighting for Vimperator files, an extension make Firefox look and behave like Vim.

@@ -55,6 +55,9 @@
 * [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.
 * [neoman.vim](https://github.com/nhooyr/neoman.vim) - A modern man page plugin for vim.
 
+### Text objects
+* [vim-textobj-user](https://github.com/kana/vim-textobj-user/wiki) - General purpose text objects "table".
+
 ### Programming
 * Autoformat
     * [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.

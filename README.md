@@ -100,6 +100,7 @@
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
     * [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
     * [vim-watchdogs](https://github.com/osyo-manga/vim-watchdogs) - Async syntax checking for vim, support multi-language.
+    * [vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 * Line Number Toggling

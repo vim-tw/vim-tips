@@ -174,3 +174,6 @@
 
 #### Generic log
 * [vim-log-syntax](https://github.com/dzeban/vim-log-syntax) - Vim syntax for log highlighting.
+
+#### Android log (logcat)
+* [vim-logcat](https://github.com/thinca/vim-logcat) - Syntax and trivial utility for logcat(Log of Android).

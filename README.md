@@ -186,3 +186,6 @@
 
 #### Vimperator
 * [vimperator.vim](https://github.com/vimperator/vimperator.vim) - Syntax highlighting for Vimperator files, an extension make Firefox look and behave like Vim.
+
+#### .tmux.conf
+* [vim-tmux](https://github.com/tmux-plugins/vim-tmux) - Make terminal vim and tmux work better together.

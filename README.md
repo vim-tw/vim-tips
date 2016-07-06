@@ -51,6 +51,9 @@
 * [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
 * [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
 
+### Man page viewers
+* [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.
+
 ### Programming
 * Autoformat
     * [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.

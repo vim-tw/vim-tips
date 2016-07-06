@@ -25,6 +25,9 @@
 ### Recovery
 * [Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer.
 
+### Session file utilities
+* [vim-obsession](https://github.com/tpope/vim-obsession) - continuously updated session files.
+
 ### File Manager
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status

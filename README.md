@@ -171,3 +171,6 @@
 
 #### CSS
 * [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing.
+
+#### Generic log
+* [vim-log-syntax](https://github.com/dzeban/vim-log-syntax) - Vim syntax for log highlighting.

@@ -57,6 +57,7 @@
 
 ### Text objects
 * [vim-textobj-user](https://github.com/kana/vim-textobj-user/wiki) - General purpose text objects "table".
+* [textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 
 ### Programming
 * Autoformat

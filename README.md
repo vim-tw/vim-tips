@@ -50,10 +50,11 @@
 
 ### Navigation
 * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections for Vim
-* [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
 * [incsearch.vim](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching for Vim
 * [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
 * [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
+* Motion
+    * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
 
 ### Man page viewers
 * [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.

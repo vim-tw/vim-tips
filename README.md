@@ -9,14 +9,25 @@
 * [neobundle](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
 
 ### Version Control
-* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
 * [vimagit](https://github.com/jreybert/vimagit) - From a very single vim buffer, you can perform main git operations in few key press
+
+#### VCS side column indicator
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
+* [vim-signify](https://github.com/mhinz/vim-signify) - Similar to *vim-gitgutter*, supports more VCS tools, but missing several git-specific features.
+* [changesPlugin](https://github.com/chrisbra/changesPlugin) - Similar to *vim-gitgutter*, supports more VCS tools, but missing several git-specific features.
 
 ### Stauts/tabline
 * [vim-airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline for vim that's light as air
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome, i3 and Qtile.
 * [lightline](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline for Vim
+
+### Recovery
+* [Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer.
+
+### Session file utilities
+* [vim-obsession](https://github.com/tpope/vim-obsession) - continuously updated session files.
+* [vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro.
 
 ### File Manager
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.
@@ -30,22 +41,43 @@
 ### File Searcher
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
+* [fzf.vim](https://github.com/junegunn/fzf.vim) - Integrated `fzf` with Vim. (Required: [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder.)
+
+### Grep/Ack/Ag pattern search tools
+* [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list
+* [ag.vim](https://github.com/rking/ag.vim) - Vim plugin for the_silver_searcher, `ag`, a replacement for the Perl module / CLI script `ack`.
+* [vim-grepper](https://github.com/mhinz/vim-grepper) - Helps you win at grep, supports many common grep tools (`ag`, `ack`, `git grep`, `sift`, `pt`, `findstr`).
 
 ### Integration with Other Applications
 * [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m (a console-based web browser) plugin for vim.
-* [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration.
 * [gist-vim](https://github.com/mattn/gist-vim) - This is a vimscript for creating gists
+* Tmux relatives
+    * [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration.
+    * [vim-tbone](https://github.com/tpope/vim-tbone) - Tmux basics.
+    * [vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) - Make terminal vim and tmux work better together.
+    * [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits.
 
 ### Malware Analysis
 * [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins) - Tiny plugins for McAfee FileInsight hex editor useful for various kind of decoding tasks in malware analysis
 
 ### Navigation
 * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections for Vim
-* [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
-* [taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
 * [incsearch.vim](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching for Vim
 * [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
 * [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
+* Motion
+    * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
+    * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim
+    * [quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
+    * [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
+
+### Man page viewers
+* [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.
+* [neoman.vim](https://github.com/nhooyr/neoman.vim) - A modern man page plugin for vim.
+
+### Text objects
+* [vim-textobj-user](https://github.com/kana/vim-textobj-user/wiki) - General purpose text objects "table".
+* [textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 
 ### Programming
 * Autoformat
@@ -68,15 +100,20 @@
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
     * [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
     * [vim-watchdogs](https://github.com/osyo-manga/vim-watchdogs) - Async syntax checking for vim, support multi-language.
+    * [vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 * Indention
     * [indentline](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 * Line Number Toggling
     * [togglenumber](https://github.com/vim-scripts/togglenumber) - Easy toggle between different numbering modes
+    * [vim-togglenumber](https://github.com/tkhoa2711/vim-togglenumber) - easy toggle between different number modes in vim
 * Refactoring
     * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - It's great for quick refactoring.
 * Surroundings
     * [vim-surround](https://github.com/tpope/vim-surround) - The plugin provides mappings to easily delete, change and add such surroundings in pairs.
+    * [vim-operator-surround](https://github.com/rhysd/vim-operator-surround) - Vim operator mapping to enclose text objects with surrounds like paren, quote and so on.
+    * [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 * Tag display
+    * [taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Undo
     * [gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
@@ -129,6 +166,7 @@
 * [vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 * [vim-protodef](https://github.com/derekwyatt/vim-protodef) -  Pulling C++ function prototypes into implementation files
 * [clang_complete](https://github.com/Rip-Rip/clang_complete) - Vim plugin that use clang for completing C/C++ code.
+* [vim-clang](https://github.com/justmao945/vim-clang) - Clang completion plugin for vim.
 
 #### Go
 * [vim-go](https://github.com/fatih/vim-go) - Go (golang) support for Vim, which comes with pre-defined sensible settings (like auto gofmt on save), with autocomplete, snippet support, improved syntax highlighting, go toolchain commands, and more.
@@ -143,3 +181,27 @@
 #### Markdown
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Syntax highlighting, matching rules and mappings for the original Markdown and extensions.
+
+#### Asciidoc
+* [vim-asciidoc](https://github.com/dahu/vim-asciidoc) - Enhanced editing support for Asciidoc files in Vim.
+
+#### CSS
+* [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing.
+
+#### Generic log
+* [vim-log-syntax](https://github.com/dzeban/vim-log-syntax) - Vim syntax for log highlighting.
+
+#### Android log (logcat)
+* [vim-logcat](https://github.com/thinca/vim-logcat) - Syntax and trivial utility for logcat(Log of Android).
+
+#### Dockerfile
+* [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile.
+
+#### Systemd units
+* [vim-systemd-syntax](https://github.com/Matt-Deacalion/vim-systemd-syntax) - Syntax highlighting for systemd service files in Vim.
+
+#### Vimperator
+* [vimperator.vim](https://github.com/vimperator/vimperator.vim) - Syntax highlighting for Vimperator files, an extension make Firefox look and behave like Vim.
+
+#### .tmux.conf
+* [vim-tmux](https://github.com/tmux-plugins/vim-tmux) - Make terminal vim and tmux work better together.

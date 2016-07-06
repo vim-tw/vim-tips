@@ -180,3 +180,6 @@
 
 #### Dockerfile
 * [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile.
+
+#### Systemd units
+* [vim-systemd-syntax](https://github.com/Matt-Deacalion/vim-systemd-syntax) - Syntax highlighting for systemd service files in Vim.

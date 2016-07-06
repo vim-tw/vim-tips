@@ -56,6 +56,7 @@
 * Motion
     * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
     * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim
+    * [quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 
 ### Man page viewers
 * [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim.

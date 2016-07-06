@@ -177,3 +177,6 @@
 
 #### Android log (logcat)
 * [vim-logcat](https://github.com/thinca/vim-logcat) - Syntax and trivial utility for logcat(Log of Android).
+
+#### Dockerfile
+* [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile.

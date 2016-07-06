@@ -82,6 +82,7 @@
 * Surroundings
     * [vim-surround](https://github.com/tpope/vim-surround) - The plugin provides mappings to easily delete, change and add such surroundings in pairs.
     * [vim-operator-surround](https://github.com/rhysd/vim-operator-surround) - Vim operator mapping to enclose text objects with surrounds like paren, quote and so on.
+    * [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 * Tag display
     * [taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.

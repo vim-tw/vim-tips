@@ -178,6 +178,9 @@
 #### Ruby
 * [vim-monster](https://github.com/osyo-manga/vim-monster) - Ruby autcomplete for vim.
 
+#### Elixir
+* [vim-elixir](https://github.com/elixir-lang/vim-elixir) - Elixir support for vim. Also adds support for Elixir's templating language, EEx.
+
 #### Markdown
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Syntax highlighting, matching rules and mappings for the original Markdown and extensions.

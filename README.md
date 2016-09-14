@@ -117,6 +117,8 @@
     * [tagbar](https://github.com/majutsushi/tagbar) - A class outline viewer for Vim.
 * Undo
     * [gundo.vim](https://github.com/sjl/gundo.vim) - Graph your Vim undo tree in style.
+* Skeleton for new files
+    * [vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim.
 
 ### ToDo-List
 * [vim-simple-todo](https://github.com/vitalk/vim-simple-todo)
@@ -140,6 +142,8 @@
 #### Python
 * [jedi-vim](https://github.com/davidhalter/jedi-vim) - Awesome Python autocompletion with VIM
 * [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim
+* [python-mode](https://github.com/klen/python-mode) - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
+* [vim-pydocstring](https://github.com/heavenshell/vim-pydocstring) - Generate Python docstring to your Python script file.
 * Useful VIM scripts
 
    ```
@@ -208,3 +212,6 @@
 
 #### .tmux.conf
 * [vim-tmux](https://github.com/tmux-plugins/vim-tmux) - Make terminal vim and tmux work better together.
+
+#### LaTeX
+* [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files.

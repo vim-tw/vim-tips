@@ -13,7 +13,7 @@
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
 * [vimagit](https://github.com/jreybert/vimagit) - From a very single vim buffer, you can perform main git operations in few key press.
 
-#### VCS side column indicator
+### VCS side column indicator
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - It shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [vim-signify](https://github.com/mhinz/vim-signify) - Similar to *vim-gitgutter*, supports more VCS tools, but missing several git-specific features.
 * [changesPlugin](https://github.com/chrisbra/changesPlugin) - Similar to *vim-gitgutter*, supports more VCS tools, but missing several git-specific features.

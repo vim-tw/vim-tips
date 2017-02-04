@@ -147,6 +147,7 @@
 * [flake8-vim](https://github.com/andviro/flake8-vim) - Frosted, pep8 and mcabe checker for Vim.
 * [python-mode](https://github.com/klen/python-mode) - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 * [vim-pydocstring](https://github.com/heavenshell/vim-pydocstring) - Generate Python docstring to your Python script file.
+* [vim-isort](https://github.com/fisadev/vim-isort) - Vim plugin to sort python imports using https://github.com/timothycrosley/isort
 * Useful VIM scripts
 
    ```

@@ -79,6 +79,7 @@
 * [incsearch.vim](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching for Vim.
 * [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
 * [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
+* [vim-movie](https://github.com/matze/vim-move) -  Move lines and selections up and down.
 * Motion
     * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
     * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim.
@@ -114,6 +115,7 @@
 * Documentation
     * [DoxygenToolkit.vim](http://www.vim.org/scripts/script.php?script_id=987) - Simplify Doxygen documentation in C, C++, Python.
 * Error Checking
+    * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
     * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim.
     * [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
     * [vim-watchdogs](https://github.com/osyo-manga/vim-watchdogs) - Async syntax checking for vim, support multi-language.
@@ -150,15 +152,21 @@
 
 ### Shell
 
+* [promptline.vim](https://github.com/edkolev/promptline.vim) - Generate a fast shell prompt with powerline symbols and airline colors.
 * [vimshell](https://github.com/Shougo/vimshell.vim) - Powerful shell implemented by vim.
 
 ### Offline Documentation Browser
 
+* [dash.vim](https://github.com/rizzatti/dash.vim)
 * [zeavim.vim](https://github.com/KabbAmine/zeavim.vim)
 
 ### Substitute Preview
 
 * [vim-over](https://github.com/osyo-manga/vim-over)
+
+### Wiki
+
+* [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim.
 
 ---
 
@@ -223,6 +231,10 @@
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) - Instant Markdown previews for vim.
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Syntax highlighting, matching rules and mappings for the original Markdown and extensions.
 
+#### Ansible
+
+* [ansible-vim](https://github.com/pearofducks/ansible-vim) - Ansible syntax highlighting and common filetypes.
+
 #### Asciidoc
 
 * [vim-asciidoc](https://github.com/dahu/vim-asciidoc) - Enhanced editing support for Asciidoc files in Vim.
@@ -258,3 +270,12 @@
 #### LaTeX
 
 * [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files.
+
+#### Jinja2
+
+* [Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - The Jinja2 syntax file for vim with the ability to detect either HTML or Jinja.
+
+#### Nginx
+
+* [nginx.vim](https://github.com/vim-scripts/nginx.vim) - highlights configuration files for nginx.
+

@@ -52,6 +52,7 @@
 * [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 * [ack.vim](https://github.com/mileszs/ack.vim) - Keywords search tool from Vim, with an enhanced results list.
 * [fzf.vim](https://github.com/junegunn/fzf.vim) - Integrated `fzf` with Vim. (Required: [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder.)
+* [denite.nvim](https://github.com/Shougo/denite.nvim) - Search files, buffers, commands, and more.
 
 ### Grep/Ack/Ag pattern search tools
 
@@ -100,6 +101,7 @@
 
 * Autoformat
     * [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+    * [vim-codefmt](https://github.com/google/vim-codefmt) - Yet another code formatter.
 * Autocomplete
     * [neocomplete](https://github.com/Shougo/neocomplete.vim) - Provides keyword completion system by cache in the current buffer.
     * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
@@ -112,6 +114,7 @@
 * Code Snipes
     * [snipMate](https://github.com/garbas/vim-snipmate) - SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips.
     * [ultisnips](https://github.com/SirVer/ultisnips) - Snippet solution for Vim.
+    * [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Using snippets without memorizing them.
 * Documentation
     * [DoxygenToolkit.vim](http://www.vim.org/scripts/script.php?script_id=987) - Simplify Doxygen documentation in C, C++, Python.
 * Error Checking

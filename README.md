@@ -41,7 +41,7 @@
 * [nerdtree](https://github.com/scrooloose/nerdtree) - The NERD tree allows you to explore your filesystem and to open files and directories.
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status.
 * [v](https://github.com/rupa/v) - Open recently edited files, no matter where you are in the filesystem.
-
+* [defx](https://github.com/Shougo/defx.nvim) -  The dark powered file explorer implementation
 ### Filetype Plugins
 
 * [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files.
@@ -107,6 +107,7 @@
     * [delimitMate](https://github.com/Raimondi/delimitMate) - Provides insert mode auto-completion for quotes, parens, brackets, etc.
     * [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
     * [vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
+    * [deoplete](https://github.com/Shougo/deoplete.nvim) - https://github.com/Shougo/deoplete.nvim
 * Comment out lines
     * [nerdcommentor](https://github.com/scrooloose/nerdcommenter) - Powerful and easy to use comment tools.
     * [tComment](https://github.com/vim-scripts/tComment) - TComment works like a toggle, i.e., it will comment out text that contains uncommented lines, and it will uncomment already commented text.

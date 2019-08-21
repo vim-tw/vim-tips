@@ -14,6 +14,7 @@
 
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
 * [vimagit](https://github.com/jreybert/vimagit) - From a very single vim buffer, you can perform main git operations in few key press.
+* [gina](https://github.com/lambdalisue/gina.vim) - https://github.com/lambdalisue/gina.vim
 
 ### VCS side column indicator
 
@@ -42,6 +43,7 @@
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status.
 * [v](https://github.com/rupa/v) - Open recently edited files, no matter where you are in the filesystem.
 * [defx](https://github.com/Shougo/defx.nvim) -  The dark powered file explorer implementation
+* [defx-git](https://github.com/kristijanhusak/defx-git) - Git status implementation for defx
 ### Filetype Plugins
 
 * [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files.
@@ -81,6 +83,7 @@
 * [vim-signature](https://github.com/kshenoy/vim-signature) - A plugin to place, toggle and display marks.
 * [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Quickly select the closest text object among a group of candidates.
 * [vim-movie](https://github.com/matze/vim-move) -  Move lines and selections up and down.
+* [matchit.zip](https://github.com/vim-scripts/matchit.zip) - extended % matching for HTML, LaTeX, and many other languages
 * Motion
     * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - EasyMotion provides a much simpler way to use some motions in vim.
     * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim.

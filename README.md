@@ -14,7 +14,7 @@
 
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Use git command in VIM.
 * [vimagit](https://github.com/jreybert/vimagit) - From a very single vim buffer, you can perform main git operations in few key press.
-* [gina](https://github.com/lambdalisue/gina.vim) - https://github.com/lambdalisue/gina.vim
+* [gina](https://github.com/lambdalisue/gina.vim) - Asynchronously control git repositories in Neovim/Vim 8
 
 ### VCS side column indicator
 

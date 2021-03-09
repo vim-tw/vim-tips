@@ -286,3 +286,7 @@
 
 * [nginx.vim](https://github.com/vim-scripts/nginx.vim) - highlights configuration files for nginx.
 
+#### R
+
+* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
+
